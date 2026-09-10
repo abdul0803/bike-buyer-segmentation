@@ -1,4 +1,5 @@
 # Bike Sales Analysis — Case Study
+Live workbook: https://docs.google.com/spreadsheets/d/1T4JwgoOAV5ApoU7WsM6qygHvV8hnIGtn9uBhGnCmhG4/edit?usp=sharing
 
 ## Business Question
 Which customer segment is most likely to purchase a bike, and what factors — age, income, or family size — actually drive that likelihood?
